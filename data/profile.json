@@ -34,7 +34,7 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Aprendizado",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -42,37 +42,35 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (estudante)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Portfolio-atual",
+      "url": "https://github.com/KaueSiqueira54/Portfolio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Portfólio 1.0",
+      "url": "https://github.com/KaueSiqueira54/Portfolio1.0",
+      "github": true
+    },
+    {
+      "name": "Paradoxo do Saber",
+      "url": "https://github.com/KaueSiqueira54/Paradoxo-do-Saber",
+      "github": true
+    },
+    {
+      "name": "Discord",
+      "url": "https://github.com/KaueSiqueira54/Desafio-Discord",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Atendente/Vendedor - Bmart brinquedos",
+      "period": "2022 - 2024",
+      "description": "Atuava no atendimento do público em geral, vendas, organização, estoque e atividades correlatas."
     }
   ]
 }
